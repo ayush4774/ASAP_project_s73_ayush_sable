@@ -1,0 +1,11 @@
+{
+  "name": "asap_project_s73_ayush_sable",
+  "version": "1.0.0",
+  "description": "Project Title:\r \"List of Funniest Wi-Fi Names Seen in Public\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
