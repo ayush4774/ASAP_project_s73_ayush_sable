@@ -75,3 +75,6 @@ Tech Stack :
    Database: MongoDB (or your preferred database)
 
    Authentication: JWT (JSON Web Tokens) or OAuth
+
+
+   https://asap-project-s73-ayush-sable-2.onrender.com/ping
